@@ -212,7 +212,7 @@ The application provides an interactive interface where users can enter demograp
 - Prediction using the fitted preprocessing and classification steps
 - A simple interface for demonstrating the model's functionality
 
-**Live application:** (https://stroke-prediction-demo.streamlit.app/)
+**Live application:** [https://stroke-prediction-demo.streamlit.app/]
 
 ## Key Challenges and Lessons Learned
 
