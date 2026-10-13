@@ -189,11 +189,9 @@ The results demonstrate why model evaluation for imbalanced healthcare data shou
 
 ## Why Logistic Regression Was Selected
 
-Logistic Regression was selected as the preferred model because the primary objective was to identify stroke cases rather than maximize overall accuracy.
+Logistic Regression was selected as the preferred model because the project's primary objective was to identify stroke cases rather than maximize overall accuracy. It achieved a recall of 78% and a ROC-AUC of 0.843, outperforming Random Forest on both metrics. Although it produced some false-positive predictions, it identified most of the actual stroke cases in the test set, making it more suitable for the project's focus on stroke detection.
 
-Its 78% recall and ROC-AUC of 0.843 were stronger than the corresponding results for Random Forest. Although the model produced false positives, it identified most of the actual stroke cases in the test set.
-
-This selection reflects the project's emphasis on stroke-case detection. It does not establish that the model is clinically reliable or suitable for medical use.
+However, this choice reflects the project's modelling objectives and does not establish that the model is clinically reliable or suitable for real-world medical use. Further validation would be required before any clinical application.
 
 ## Streamlit Application
 
