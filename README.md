@@ -23,12 +23,8 @@ The project compares Logistic Regression and Random Forest classifiers and deplo
 - [Model Evaluation](#model-evaluation)
 - [Why Logistic Regression Was Selected](#why-logistic-regression-was-selected)
 - [Streamlit Application](#streamlit-application)
-- [Project Structure](#project-structure)
-- [Installation and Setup](#installation-and-setup)
-- [Running the Application](#running-the-application)
 - [Key Challenges and Lessons Learned](#key-challenges-and-lessons-learned)
 - [Limitations and Future Improvements](#limitations-and-future-improvements)
-- [Team](#team)
 - [Acknowledgements](#acknowledgements)
 - [References](#references)
 
