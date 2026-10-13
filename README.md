@@ -251,7 +251,7 @@ Potential future improvements include:
 
 ## Acknowledgements
 
-We acknowledge our tutors, Tutor Michael and Tutor Lamzy, and the TechCrush community for their guidance, support, and contributions throughout the project.
+We acknowledge our tutors, Tutor Micheal and Tutor Lamzy, and the TechCrush community for their guidance, support, and contributions throughout the project.
 
 We also acknowledge Fedesoriano for making the Stroke Prediction Dataset available through Kaggle.
 
