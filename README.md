@@ -249,16 +249,6 @@ Potential future improvements include:
 - Improving prediction explanations and communicating uncertainty.
 - Conducting fairness, reliability, and clinical suitability assessments.
 
-## Team
-
-**Project:** Stroke Prevention Using Machine Learning Techniques  
-**Group:** Group 13  
-**Programme:** Artificial Intelligence / Machine Learning Capstone  
-**Institution:** TechCrush  
-**Project period:** October 2026
-
-This project was completed as a collaborative learning exercise in data science and machine learning.
-
 ## Acknowledgements
 
 We acknowledge our tutors, Tutor Michael and Tutor Lamzy, and the TechCrush community for their guidance, support, and contributions throughout the project.
