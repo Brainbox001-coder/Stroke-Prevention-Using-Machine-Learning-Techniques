@@ -61,7 +61,7 @@ The project uses the **Stroke Prediction Dataset** published by Fedesoriano on K
 
 **Dataset source:** [Stroke Prediction Dataset — Kaggle](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
-The dataset contains demographic, medical, and lifestyle-related information, together with a target variable indicating whether a stroke occurred.
+The dataset contains demographic, health, and lifestyle information collected from 5,110 individuals and includes 12 variables. 
 
 ### Features used
 
