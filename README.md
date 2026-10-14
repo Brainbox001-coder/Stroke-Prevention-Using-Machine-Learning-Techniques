@@ -177,8 +177,6 @@ Because the dataset contains substantially more non-stroke cases than stroke cas
 | F1-score | 0.23 | 0.00 |
 | ROC-AUC | 0.843 | 0.770 |
 
-*Results are based on the project's reported test-set evaluation.*
-
 ### Interpretation
 
 **Logistic Regression** achieved a recall of 78%, identifying 39 of the 50 actual stroke cases in the test set. However, its precision was low, indicating that it also classified many non-stroke cases as positive.
