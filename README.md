@@ -106,6 +106,20 @@ The project was completed through the following stages:
 7. **Model selection:** Selected Logistic Regression because it performed better at identifying stroke cases.
 8. **Deployment:** Saved the trained pipeline using Joblib and built an interactive Streamlit application.
 
+## Exploratory Data Analysis
+
+Exploratory Data Analysis was used to understand the dataset's structure, feature distributions, and potential relationships with stroke occurrence.
+
+The analysis examined:
+
+- The distribution of stroke and non-stroke cases.
+- The distributions of numerical features such as age, average glucose level, and BMI.
+- Categorical variables such as gender, work type, marital status, residence type, and smoking status.
+- Potential outliers in numerical variables.
+- Relationships and correlations among selected features.
+
+The analysis highlighted the importance of considering age, glucose level, hypertension, and heart disease when investigating patterns associated with stroke occurrence. These observed associations do not establish causation.
+
 ## Data Preprocessing
 
 Data preprocessing was performed to prepare the dataset for reliable model training.
@@ -121,20 +135,6 @@ The main steps included:
 - Integrating preprocessing and classification into machine learning pipelines.
 
 Using a pipeline helps ensure that the same fitted preprocessing transformations are applied when the model receives new input data.
-
-## Exploratory Data Analysis
-
-Exploratory Data Analysis was used to understand the dataset's structure, feature distributions, and potential relationships with stroke occurrence.
-
-The analysis examined:
-
-- The distribution of stroke and non-stroke cases.
-- The distributions of numerical features such as age, average glucose level, and BMI.
-- Categorical variables such as gender, work type, marital status, residence type, and smoking status.
-- Potential outliers in numerical variables.
-- Relationships and correlations among selected features.
-
-The analysis highlighted the importance of considering age, glucose level, hypertension, and heart disease when investigating patterns associated with stroke occurrence. These observed associations do not establish causation.
 
 ## Machine Learning Models
 
