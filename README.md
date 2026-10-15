@@ -36,7 +36,7 @@ Stroke is a major public health concern, and identifying individuals who may be 
 
 The goal of this project is to investigate how demographic, medical, and lifestyle information can be used to classify whether a record indicates stroke occurrence.
 
-The project follows a structured data science workflow involving data cleaning, exploratory analysis, feature preprocessing, model development, and performance evaluation. The final selected model is integrated into a Streamlit web application to demonstrate how a trained machine learning pipeline can be used interactively.
+The project follows a structured mchine learning workflow involving data cleaning, exploratory analysis, feature preprocessing, model development, and performance evaluation. The final selected model is integrated into a Streamlit web application to demonstrate how a trained machine learning pipeline can be used interactively.
 
 ## Objectives
 
