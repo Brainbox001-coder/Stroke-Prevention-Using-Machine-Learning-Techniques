@@ -91,7 +91,7 @@ The project uses the following tools and libraries:
 - **Joblib** — saving and loading the trained model pipeline
 - **Jupyter Notebook / Google Colab** — development and experimentation
 - **Streamlit** — interactive web application
-- **Git and GitHub** — version control and project hosting
+- **GitHub** — project hosting
 
 ## Project Workflow
 
